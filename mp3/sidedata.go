@@ -3,7 +3,7 @@ package mp3
 import (
 	//"errors"
 	"fmt"
-	"github.com/sssgun/mp3utils/mp3/utils"
+	"github.com/sssgun/mp3utils/mp3/pickbits"
 )
 
 type SideData struct {
